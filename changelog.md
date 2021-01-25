@@ -18,5 +18,9 @@ Creator's Profile | https://www.roblox.com/users/1578890565/profile
 
 - Made the maps more realistic.
 
-- Not a change, but I plan on making more maps for the game, and a selection GUI. I want to have a full menu, team selection and loadout GUI so the game just overall looks really clean.
+### Planned
+
+- I plan on making more maps for the game, and a selection GUI. I want to have a full menu, team selection and loadout GUI so the game just overall looks really clean.
+
+- I realised a *few* of the guns did not work, I will fix that shortly. 
 
